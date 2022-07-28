@@ -1,0 +1,43 @@
+.flex{
+    display: flex;
+
+}
+
+.item-content{
+ align-items: center;
+ font-family:sans-serif;
+ font-weight: bold;
+ font-size: 12px;
+ 
+}
+
+
+.justify-center{
+    justify-content: center;
+
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.mx-2{
+    
+    margin-left: 12px;
+    margin-right: 0px;
+}
+
+input.desktop-searchbar {
+    width: 25vw;
+    border-radius: 5px;
+    padding: 7px 17px;
+    border: 0.5px solid grey;
+    background: #f7f8fd;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+
+
